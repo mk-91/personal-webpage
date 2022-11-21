@@ -1,3 +1,5 @@
+// console.log($);
+
 const $arrow = $('#arrow');
 const $body = $('body, html');
 let $top = $('main').offset().top;
